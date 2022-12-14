@@ -1,5 +1,7 @@
 
 {
   "deployments": 
-    {  "enviroment": "Production"} 
-    } 
+    {  "enviroment" {
+    "type: "Production"} 
+    }
+} 
