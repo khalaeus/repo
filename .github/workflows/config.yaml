@@ -7,8 +7,7 @@ on:
 jobs:
   deployment:
     services:
-      ids:
-        - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzc5NDE3ZmJjLTdkMmUtNDY4Zi1iMzA2LWI0MGFhODdhZDEyZi81ZDk2YTdkYy03YmQxLTExZWQtOTRmMC0xMjhiNDI4MTk0MjQ=
+      ids: b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzc5NDE3ZmJjLTdkMmUtNDY4Zi1iMzA2LWI0MGFhODdhZDEyZi81ZDk2YTdkYy03YmQxLTExZWQtOTRmMC0xMjhiNDI4MTk0MjQ=
     runs-on: ubuntu-latest
     environment: production
     steps:
