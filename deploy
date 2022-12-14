@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deployment:
+  deployment:xsa
     runs-on: ubuntu-latest
     environment: production
     steps:
