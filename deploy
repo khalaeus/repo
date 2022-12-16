@@ -1,17 +1,1 @@
-name: Deployment
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  deployment:xsa
-    runs-on: ubuntu-latest
-    steps:
-      - name: deploy
-        # ...deployment-specific steps
-        on code
-ddwqd
-dwjojodwqdwq
-ew
+test
