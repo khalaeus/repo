@@ -6,6 +6,7 @@ on:
   - pull_request
 jobs:
   deployment:
+    environment: production
     runs-on: ubuntu-latest
     steps:
       - name: Run a one-line script
