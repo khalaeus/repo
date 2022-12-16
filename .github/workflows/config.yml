@@ -5,6 +5,7 @@ on:
   - create
   - pull_request
 jobs:
+  deployment:
     runs-on: ubuntu-latest
     environment: production
     steps:
