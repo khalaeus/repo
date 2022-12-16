@@ -6,8 +6,8 @@ on:
   - pull_request
 jobs:
   deployment:
-    environment: production
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - name: Run a one-line script
         run: echo Hello, world!
