@@ -8,10 +8,10 @@ on:
 jobs:
   deployment:xsa
     runs-on: ubuntu-latest
-    environment: production
     steps:
       - name: deploy
         # ...deployment-specific steps
         on code
 ddwqd
 dwjojodwqdwq
+ew
